@@ -98,6 +98,7 @@ const components = {
   sonarr: dynamic(() => import("./sonarr/component")),
   speedtest: dynamic(() => import("./speedtest/component")),
   strelaysrv: dynamic(() => import("./strelaysrv/component")),
+  suwayomi: dynamic(() => import("./suwayomi/component")),
   tailscale: dynamic(() => import("./tailscale/component")),
   tautulli: dynamic(() => import("./tautulli/component")),
   tdarr: dynamic(() => import("./tdarr/component")),
