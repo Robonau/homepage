@@ -536,7 +536,15 @@
     },
     "hdhomerun": {
         "channels": "Kanäle",
-        "hd": "HD"
+        "hd": "HD",
+        "tunerCount": "Empfänger",
+        "channelNumber": "Kanal",
+        "channelNetwork": "Netzwerk",
+        "signalStrength": "Stärke",
+        "signalQuality": "Qualität",
+        "symbolQuality": "Qualität",
+        "networkRate": "Bitrate",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "Bestanden",
@@ -695,6 +703,11 @@
         "targets_down": "Ziele Down",
         "targets_total": "Alle Ziele"
     },
+    "gatus": {
+        "up": "Seiten verfügbar",
+        "down": "Seiten nicht verfügbar",
+        "uptime": "Betriebszeit"
+    },
     "ghostfolio": {
         "gross_percent_today": "Heute",
         "gross_percent_1y": "Ein Jahr",
@@ -776,6 +789,14 @@
         "passed": "Bestanden",
         "failed": "Fehlgeschlagen"
     },
+    "openwrt": {
+        "uptime": "Betriebszeit",
+        "cpuLoad": "CPU-Last (5 min-Durchschnitt)",
+        "up": "Senden",
+        "down": "Empfangen",
+        "bytesTx": "Übertragen",
+        "bytesRx": "Empfangen"
+    },
     "uptimerobot": {
         "status": "Status",
         "uptime": "Betriebszeit",
@@ -798,11 +819,22 @@
         "noEventsFound": "Keine Termine gefunden"
     },
     "romm": {
-        "platforms": "Platforms",
-        "totalRoms": "Total ROMs"
+        "platforms": "Plattformen",
+        "totalRoms": "ROMs gesamt"
     },
     "netdata": {
         "warnings": "Warnungen",
         "criticals": "Kritisch"
+    },
+    "plantit": {
+        "events": "Ereignisse",
+        "plants": "Pflanzen",
+        "photos": "Fotos",
+        "species": "Spezies"
+    },
+    "gitea": {
+        "notifications": "Notifications",
+        "issues": "Probleme",
+        "pulls": "Pull Requests"
     }
 }

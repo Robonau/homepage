@@ -419,7 +419,8 @@
         "search": "搜尋",
         "custom": "自訂",
         "visit": "造訪",
-        "url": "網址"
+        "url": "網址",
+        "searchsuggestion": "Suggestion"
     },
     "wmo": {
         "0-day": "晴天",
@@ -535,7 +536,15 @@
     },
     "hdhomerun": {
         "channels": "頻道",
-        "hd": "高畫質"
+        "hd": "高畫質",
+        "tunerCount": "Tuners",
+        "channelNumber": "Channel",
+        "channelNetwork": "Network",
+        "signalStrength": "Strength",
+        "signalQuality": "Quality",
+        "symbolQuality": "Quality",
+        "networkRate": "比特率",
+        "clientIP": "Client"
     },
     "scrutiny": {
         "passed": "通過",
@@ -694,6 +703,11 @@
         "targets_down": "目標離線",
         "targets_total": "目標總數"
     },
+    "gatus": {
+        "up": "在線網站",
+        "down": "離線網站",
+        "uptime": "運行時間"
+    },
     "ghostfolio": {
         "gross_percent_today": "今日",
         "gross_percent_1y": "一年",
@@ -775,6 +789,14 @@
         "passed": "通過",
         "failed": "失敗"
     },
+    "openwrt": {
+        "uptime": "運行時間",
+        "cpuLoad": "CPU Load Avg (5m)",
+        "up": "在線",
+        "down": "離線",
+        "bytesTx": "Transmitted",
+        "bytesRx": "已接收"
+    },
     "uptimerobot": {
         "status": "狀況",
         "uptime": "運行時間",
@@ -803,5 +825,16 @@
     "netdata": {
         "warnings": "Warnings",
         "criticals": "Criticals"
+    },
+    "plantit": {
+        "events": "Events",
+        "plants": "Plants",
+        "photos": "照片",
+        "species": "Species"
+    },
+    "gitea": {
+        "notifications": "Notifications",
+        "issues": "出版",
+        "pulls": "Pull Requests"
     }
 }
